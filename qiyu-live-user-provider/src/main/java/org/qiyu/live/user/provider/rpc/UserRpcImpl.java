@@ -5,7 +5,7 @@ import org.qiyu.live.user.interfaces.IUserRpc;
 
 /**
   * @ClassName UserRpcImpl
-  * @description: TODO
+  * @description:
   * @author Hwangjj
   * @date 2024/7/30 下午2:29
   * @version: 1.0

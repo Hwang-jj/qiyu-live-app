@@ -8,7 +8,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 /**
   * @ClassName ApiWebApplication
-  * @description: TODO
+  * @description:
   * @author Hwangjj
   * @date 2024/7/30 下午3:41
   * @version: 1.0
